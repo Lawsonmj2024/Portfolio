@@ -549,6 +549,10 @@ body:not(.user-is-tabbing) a:focus {
     }
 }
 
+.about__photo {
+    border-radius: 50%;
+}
+
 .about__photo-container {
     margin-bottom: var(--gutter-normal);
 }
